@@ -51,9 +51,31 @@ It’s a **hands-on demonstration of real-world Java skills**, combining GUI, ba
 - Files are stored in an encrypted format in the `vault` directory.
 - Metadata is stored in vault/metadata.ser.
 
+
+### Screenshots
+![img.png](img.png)
+
+
+![img_1.png](img_1.png)
+
+![img_2.png](img_2.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### License
 MIT License
 
 Copyright (c) 2026 Sandip Kumar Shah
 
 Permission is hereby granted, free of charge, to any person obtaining a copy.
+
